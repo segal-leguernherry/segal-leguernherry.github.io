@@ -28,7 +28,7 @@ twitter_username: ""
 github_username:  segal-leguernherry
 
 # Build settings
-theme: minima
+remote_theme: LeNPaul/academic
 plugins:
   - jekyll-feed
 
