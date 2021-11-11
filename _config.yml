@@ -21,11 +21,11 @@
 title: Ségal Le Guern Herry
 email: s.leguernherry(at)gmail.com
 description: Mon site professionnel
-domain: segal-leguernherry.github.io
-baseurl: "segal-leguernherry.github.io" # the subpath of your site, e.g. /blog
-url: "https://segal-leguernherry.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+domain: ""
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: ""
+github_username:  segal-leguernherry
 
 # Build settings
 theme: minima
