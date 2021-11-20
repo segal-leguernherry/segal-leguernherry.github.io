@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: Research
 title: "Research"
 ---
 
