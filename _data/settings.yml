@@ -1,4 +1,4 @@
 menu:
-- {name: 'publications', url: '/publications'}
-- {name: 'teaching', url: '/teaching'}
+- {name: 'Research', url: '/Research'}
+- {name: 'Teaching', url: '/Teaching'}
 
