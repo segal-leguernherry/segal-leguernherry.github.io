@@ -5,7 +5,7 @@ title: "Research"
 urlcolor: blue
 ---
 
-## Working papers
+# Working papers
 
  
   
@@ -14,7 +14,7 @@ urlcolor: blue
 Revise & Resubmit, *Journal of Public Economics*
 
 
-## In progress
+# In progress
 "Automatic Exchange of Information and Real Estate Investment" \
 (with Jeanne Bomare)\
 Working paper coming soon!
