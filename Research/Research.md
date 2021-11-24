@@ -6,8 +6,7 @@ urlcolor: blue
 ---
 
 ### Working papers
-
-&nbsp;  
+  
 "[Tax Evasion and Tax Avoidance](/publications/AJLZ2021(4).pdf)" (Revised November 2021) \
 (with Annette Alstadsaeter, Niels Johannesen and Gabriel Zucman) \
 Revise & Resubmit, *Journal of Public Economics*
@@ -15,7 +14,7 @@ Revise & Resubmit, *Journal of Public Economics*
 &nbsp;  
   
 ### In progress
-&nbsp;  
+  
 "Automatic Exchange of Information and Real Estate Investment" \
 (with Jeanne Bomare)\
 Working paper coming soon!
