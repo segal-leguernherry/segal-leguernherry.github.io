@@ -7,17 +7,8 @@ description: ongoing research, working papers
 
 ### working papers
 
-@preamble{ " \newcommand{\noop}[1]{} " }
 
-@unpublisehed{AJLZ2021,
-  title={Tax Evasion and Tax Avoidance},
-  author={With [Annette Alstadsaeter](https://www.nmbu.no/ans/annette.alstadsater), [Niels Johannesen](https://www.nielsjohannesen.net/)}, [Gabriel Zucman](https://gabriel-zucman.eu/)
-  year = {2021},
-  note    = {\noop{3002}Revise and resubmit},
-  journal = {Journal of Public Economics},
-  year={Revision November 2021},
-  abstract={Exploiting rich administrative data and salient policy variation, we study the substitution between illegal tax evasion and legal tax avoidance. By increasing its enforcement effort, the Norwegian government pushed many wealthy individuals to disclose assets previously hidden abroad. We find that the taxes paid by these individuals rise 30\% at the time of disclosure and that the rise is sustained over time. After stopping to evade, taxpayers do not start avoiding more. Our results suggest that cracking down on evasion by the wealthy can be an effective way to raise tax revenue, increase tax progressivity, and ultimately reduce inequality. },
-  selected={true}
-}
+
+[Tax Evasion and Tax Avoidance](/publications/AJLZ2021(4).pdf), with [Annette Alstadsaeter](https://www.nmbu.no/ans/annette.alstadsater), [Niels Johannesen](https://www.nielsjohannesen.net/)}, [Gabriel Zucman](https://gabriel-zucman.eu/). Revised November 2021. Revise & Resubmit, *Journal of Public Economics*
 
 
