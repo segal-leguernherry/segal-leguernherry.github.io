@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /Research/
-title: "Research"
+title: ""
 urlcolor: blue
 ---
 
