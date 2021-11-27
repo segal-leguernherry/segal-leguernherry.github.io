@@ -5,7 +5,9 @@ title: ""
 urlcolor: blue
 ---
 
-<center> **[Working papers]** </center> 
+<div align="center">
+  **\[Working papers\]**
+</div>
   
 "[Tax Evasion and Tax Avoidance](/publications/AJLZ2021(4).pdf)" (Revised November 2021) \
 (with Annette Alstadsaeter, Niels Johannesen and Gabriel Zucman) \
