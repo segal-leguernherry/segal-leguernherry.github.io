@@ -6,7 +6,7 @@ urlcolor: blue
 ---
 
 <div align="center">
-  **\[Working papers\]**
+ <b>[Working papers]</b>
 </div>
   
 "[Tax Evasion and Tax Avoidance](/publications/AJLZ2021(4).pdf)" (Revised November 2021) \
