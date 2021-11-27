@@ -34,6 +34,7 @@ using several tax-related data leaks, we identify the country of residence of mo
   
 **Presentations:** Zeuthen Workshop (*University of Copenhagen*), Workshop "Fraud, Tax Evasion and Tax Havens, since the 19th century" (*University of Lausanne*), Friday seminar (*Sciences Po*), Young research seminar (*LIEPP*).
 &nbsp;  
+
 <div align="center">
  <b>[Policy]</b>
 </div>
