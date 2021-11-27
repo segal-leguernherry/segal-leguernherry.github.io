@@ -10,9 +10,9 @@ urlcolor: blue
 </div>
 &nbsp;  
   
-"[Tax Evasion and Tax Avoidance](/publications/AJLZ2021(4).pdf)" (Revised November 2021) \
-(with Annette Alstadsaeter, Niels Johannesen and Gabriel Zucman) \
+"[Tax Evasion and Tax Avoidance](/publications/AJLZ2021(4).pdf)" (with Annette Alstadsaeter, Niels Johannesen and Gabriel Zucman) \
 Revise & Resubmit, *Journal of Public Economics*
+  
   
 <sub> Exploiting rich administrative data and salient policy variation, we study the substi-
 tution between illegal tax evasion and legal tax avoidance. By increasing its enforcement
@@ -30,7 +30,7 @@ ultimately reduce inequality. </sub>
 </div>
 &nbsp;  
   
-"Automatic Exchange of Information and Real Estate Investment" \
-(with Jeanne Bomare)\
+"Automatic Exchange of Information and Real Estate Investment" (with Jeanne Bomare)\
+  
 Working paper coming soon!
 
