@@ -9,7 +9,7 @@ urlcolor: blue
 &nbsp;  
 Econometrics I (TA) - *with Jean Marc Robin - 2019, 2020, 2021* 
 
-Econometrics Methods (TA) - "With Junnan He - 2021*
+Econometrics Methods (TA) - *With Junnan He - 2021*
 
 &nbsp;  
   
