@@ -7,9 +7,9 @@ urlcolor: blue
   
 ## Graduate courses (Sciences Po)
 
-Econometrics I - *with Jean Marc Robin - 2019, 2020, 2021* 
+Econometrics I (TA) - *with Jean Marc Robin - 2019, 2020, 2021* 
 
-Econometrics Methods - "With Junnan He - 2021*
+Econometrics Methods (TA) - "With Junnan He - 2021*
 
 &nbsp;  
   
@@ -17,4 +17,4 @@ Econometrics Methods - "With Junnan He - 2021*
 
 Economics of taxation (in French) - *2020, 2021* 
 
-Environmental Economics - *With Stefan Pollinger - Spring 2022*
+Environmental Economics (TA) - *With Stefan Pollinger - Spring 2022*
