@@ -15,14 +15,8 @@ urlcolor: blue
 Revise & Resubmit, *Journal of Public Economics*
   
   
-<sub> Exploiting rich administrative data and salient policy variation, we study the substi-
-tution between illegal tax evasion and legal tax avoidance. By increasing its enforcement
-effort, the Norwegian government pushed many wealthy individuals to disclose assets pre-
-viously hidden abroad. We find that the taxes paid by these individuals rise 30% at the
-time of disclosure and that the rise is sustained over time. After stopping to evade, tax-
-payers do not start avoiding more. Our results suggest that cracking down on evasion by
-the wealthy can be an effective way to raise tax revenue, increase tax progressivity, and
-ultimately reduce inequality. </sub>
+<sub> Exploiting rich administrative data and salient policy variation, we study the substitution between illegal tax evasion and legal tax avoidance. By increasing its enforcement effort, the Norwegian government pushed many wealthy individuals to disclose assets pre-
+viously hidden abroad. We find that the taxes paid by these individuals rise 30% at the time of disclosure and that the rise is sustained over time. After stopping to evade, taxpayers do not start avoiding more. Our results suggest that cracking down on evasion by the wealthy can be an effective way to raise tax revenue, increase tax progressivity, and ultimately reduce inequality. </sub>
 
 &nbsp;  
   
