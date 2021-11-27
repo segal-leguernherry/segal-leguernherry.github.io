@@ -15,6 +15,6 @@ Econometrics Methods (TA) - *With Junnan He - 2021*
   
 ## Undergraduate courses (Sciences Po)
 &nbsp;  
-Economics of taxation (in French) - *2020, 2021* 
+Economics of taxation (in French) - *Alone - 2020, 2021* 
 
 Environmental Economics (TA) - *With Stefan Pollinger - Spring 2022*
