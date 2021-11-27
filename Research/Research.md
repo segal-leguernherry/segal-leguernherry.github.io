@@ -25,7 +25,10 @@ ultimately reduce inequality. </sub>
 
 &nbsp;  
   
-<center> **[In progress]** </center> 
+<div align="center">
+ <b>[In progress]</b>
+</div>
+&nbsp;  
   
 "Automatic Exchange of Information and Real Estate Investment" \
 (with Jeanne Bomare)\
