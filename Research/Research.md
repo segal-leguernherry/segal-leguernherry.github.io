@@ -29,3 +29,13 @@ viously hidden abroad. We find that the taxes paid by these individuals rise 30%
   
 Working paper coming soon!
 
+<sub> Building on rich administrative data on real estate purchases made by foreign companies in England
+and Wales, we identify one important channel through which tax evaders escape automatic exchange of
+information treaties: real estate investments, which are excluded from the scope of these agreements. First,
+using several tax-related data leaks, we identify the country of residence of more than 2,500 company owners
+who appear in our database. We show that the residents from countries committing to the CRS in May 2014
+reacted strongly to this event by investing in real estate in England and Wales. Second, we extend this
+finding to all foreign companies in our database and estimate that almost £65 billion have been invested
+in real estate in England and Wales between 2014 and 2016 because of the threat Automatic Exchange of
+Information constitutes for tax evaders. This represents more than 6% of all real estate investment on the
+territory during this period. </sub>
