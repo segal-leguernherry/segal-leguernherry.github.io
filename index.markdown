@@ -11,4 +11,4 @@ I am a PhD candidate in Economics at Sciences Po. I work under the supervision o
 My thesis, "*Essays on Behavioral Reponses to Taxation*" investigates issues related to public economics, economics of taxation and applied microeconomics. I am particularly interested in tax evasion and its implications for tax progressivity and inequality. 
 &nbsp;  
 
-You can download my CV [here]("/assets/CV.pdf").
+You can download my CV [here](/assets/CV.pdf).
