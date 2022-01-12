@@ -12,7 +12,7 @@ urlcolor: blue
   
 "[Tax Evasion and Tax Avoidance](/publications/AJLZ2021(4).pdf)" (with Annette Alstadsaeter, Niels Johannesen and Gabriel Zucman) 
 
-Accepted, *Journal of Public Economics*
+Forthcoming, *Journal of Public Economics*
   
   
 <sub> Exploiting rich administrative data and salient policy variation, we study the substitution between illegal tax evasion and legal tax avoidance. By increasing its enforcement effort, the Norwegian government pushed many wealthy individuals to disclose assets pre-
