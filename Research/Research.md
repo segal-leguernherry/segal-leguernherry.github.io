@@ -6,7 +6,7 @@ urlcolor: blue
 ---
 
 <div align="center">
- <b>[Working papers]</b>
+ <b>[Publications]</b>
 </div>
 &nbsp;  
   
