@@ -10,7 +10,7 @@ urlcolor: blue
 </div>
 &nbsp;  
   
-"[Tax Evasion and Tax Avoidance](/publications/AJLZ2021(4).pdf)" (with Annette Alstadsaeter, Niels Johannesen and Gabriel Zucman) 
+"[Tax Evasion and Tax Avoidance](/publications/1-s2.0-S0047272721002231-main.pdf)" (with Annette Alstadsaeter, Niels Johannesen and Gabriel Zucman) 
 
 Forthcoming, *Journal of Public Economics*
   
