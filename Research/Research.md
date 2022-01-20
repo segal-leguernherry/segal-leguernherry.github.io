@@ -10,10 +10,7 @@ urlcolor: blue
 </div>
 &nbsp;  
   
-"[Tax Evasion and Tax Avoidance](/publications/1-s2.0-S0047272721002231-main.pdf)" (with Annette Alstadsaeter, Niels Johannesen and Gabriel Zucman) 
-
-Forthcoming, *Journal of Public Economics*
-  
+"[Tax Evasion and Tax Avoidance](/publications/1-s2.0-S0047272721002231-main.pdf)" (with Annette Alstadsaeter, Niels Johannesen and Gabriel Zucman), *Journal of Public Economics* (2022)
   
 <sub> Exploiting rich administrative data and salient policy variation, we study the substitution between illegal tax evasion and legal tax avoidance. By increasing its enforcement effort, the Norwegian government pushed many wealthy individuals to disclose assets pre-
 viously hidden abroad. We find that the taxes paid by these individuals rise 30% at the time of disclosure and that the rise is sustained over time. After stopping to evade, taxpayers do not start avoiding more. Our results suggest that cracking down on evasion by the wealthy can be an effective way to raise tax revenue, increase tax progressivity, and ultimately reduce inequality. </sub>
