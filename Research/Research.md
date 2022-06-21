@@ -18,15 +18,16 @@ viously hidden abroad. We find that the taxes paid by these individuals rise 30%
 &nbsp;  
   
 <div align="center">
- <b>[In progress]</b>
+ <b>[Working papers]</b>
 </div>
 &nbsp;  
   
-"[Will We Ever Be Able to Track Offshore Wealth? Evidence from the Offshore Real Estate Market in the UK"](https://www.dropbox.com/s/axvw1fgudoeyvwg/BLGH_June2022_SciencesPoWP.pdf?dl=0) (with Jeanne Bomare) 
+"[Will We Ever Be Able to Track Offshore Wealth? Evidence from the Offshore Real Estate Market in the UK"](https://www.dropbox.com/s/axvw1fgudoeyvwg/BLGH_June2022_SciencesPoWP.pdf?dl=0) (with [Jeanne Bomare](https://sites.google.com/view/jeanne-bomare/about?authuser=0)) 
+
+*Young Researcher Award, European Union Tax Observatory*
 
 <sub> This paper provides evidence of the growing importance of real estate assets in offshore portfolios. We study the implementation of the first multilateral automatic exchange of information norm, the Common Reporting Standard (CRS), which introduces cross-border reporting requirements for financial assets but not for real estate assets. Exploiting administrative data on property purchases made by foreign companies in the UK, we show that the implementation of the CRS led to a significant increase of real estate investments from companies incorporated in the tax havens that were the most exposed to the policy. We confirm that this increase comes from company owners of countries committing to the new standard by identifying the residence country of a sub-sample of buyers using the Panama Papers and other leaked datasets. We estimate that between £16 and £19 billion have been invested in the UK real estate market between 2013 and 2016 in reaction to the CRS, suggesting that at the global scale between 24% and 27% of the money that fled tax havens following this policy were ultimately invested in properties. </sub>
-  
-**Presentations:** World Inequality Conference 2021 (*Paris School of Economics*), AFSE - DG Trésor Conference (*French Ministry for the Economy and Finance*) , Zeuthen Workshop (*University of Copenhagen*), Workshop "Fraud, Tax Evasion and Tax Havens, since the 19th century" (*University of Lausanne*), Friday seminar (*Sciences Po*), Young research seminar (*LIEPP*).
+
 
 &nbsp;  
 
