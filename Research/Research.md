@@ -36,4 +36,4 @@ viously hidden abroad. We find that the taxes paid by these individuals rise 30%
 </div>
 &nbsp;  
 
-I contributed to a report of the Cour des comptes on tax fraud in France called "La fraude aux prélèvements obligatoire", available [here]("https://www.ccomptes.fr/fr/publications/la-fraude-aux-prelevements-obligatoires") (in French) and published in December 2019. 
+I contributed to a report of the Cour des comptes on tax fraud in France called "La fraude aux prélèvements obligatoire", available [here](https://www.ccomptes.fr/fr/publications/la-fraude-aux-prelevements-obligatoires) (in French) and published in December 2019. 
