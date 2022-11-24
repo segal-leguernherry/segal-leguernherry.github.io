@@ -37,7 +37,7 @@ viously hidden abroad. We find that the taxes paid by these individuals rise 30%
 &nbsp;  
 
 - Vidéo [*L'impôt fait-il fuir les riches ?*](https://www.youtube.com/watch?v=moTzW9ztEGE) (with [Basile Deshardiller](https://www.instagram.com/balise_d/)). 
-[*Winner of Citéco Vidéo Challenge 2022*](https://www.citeco.fr/laureats-cvc-2022)
+Winner of [*Citéco Vidéo Challenge 2022*](https://www.citeco.fr/laureats-cvc-2022)
 
 
 
