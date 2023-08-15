@@ -22,7 +22,8 @@ viously hidden abroad. We find that the taxes paid by these individuals rise 30%
 </div>
 &nbsp;  
 
-"[Wealth Taxation and Portfolio Allocation at the Top]" (working paper coming soon)
+"Wealth Taxation and Portfolio Allocation at the Top" (working paper coming soon)
+&nbsp;  
 
  
 "[Will We Ever Be Able to Track Offshore Wealth? Evidence from the Offshore Real Estate Market in the UK"](https://www.dropbox.com/s/axvw1fgudoeyvwg/BLGH_June2022_SciencesPoWP.pdf?dl=0) (with [Jeanne Bomare](https://sites.google.com/view/jeanne-bomare/about?authuser=0)) 
