@@ -22,13 +22,14 @@ viously hidden abroad. We find that the taxes paid by these individuals rise 30%
 </div>
 &nbsp;  
 
-"[Wealth Taxation and Portfolio Allocation at the Top](https://segal-leguernherry.github.io/Research/)" (working paper coming soon)
+"[Wealth Taxation and Portfolio Allocation at the Top](https://segal-leguernherry.github.io/Research/)" (draft coming soon)
 
+<sub> How does taxation affect portfolio choices at the top? I study this question using comprehensive administrative wealth and income tax returns for France. I leverage a 2017 reform which transformed the French wealth tax into a real estate tax –thus excluding financial wealth from the tax base. In a difference-in-differences setting, I study to what extend wealthy French taxpayers substitute (highly taxed) real estate for financial assets after the reform. My control group is composed of non-residents, who benefited from a full tax exemption on their financial investment located in France before the reform and thus who are not affected by the policy change. Intensive margin responses suggest a 5% reduction in taxable real estate after five years. Exploiting information on the use of real estate, I show that most of this response is driven by adjustment of investment housing, as opposed to consumption housing. This quasi-experiment allows me to estimate for the first time the cross-elasticity between real estate and financial wealth, which is strictly positive but rather modest. Overall, the results suggest that the real estate and financial markets are relatively segmented, even at the top. </sub>
 
 &nbsp;  
 
  
-"[Will We Ever Be Able to Track Offshore Wealth? Evidence from the Offshore Real Estate Market in the UK"](https://www.dropbox.com/s/axvw1fgudoeyvwg/BLGH_June2022_SciencesPoWP.pdf?dl=0) (with [Jeanne Bomare](https://sites.google.com/view/jeanne-bomare/about?authuser=0)) 
+"[Avoiding Transparency through Offshore Real Estate: Evidence from the UK"](https://www.dropbox.com/s/axvw1fgudoeyvwg/BLGH_June2022_SciencesPoWP.pdf?dl=0) (with [Jeanne Bomare](https://sites.google.com/view/jeanne-bomare/about?authuser=0)) 
 
 [*Young Researcher Award*](https://www.youtube.com/watch?v=-rSRteTuUw0), *European Union Tax Observatory*
 
