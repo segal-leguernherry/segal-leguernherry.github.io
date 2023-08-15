@@ -22,7 +22,9 @@ viously hidden abroad. We find that the taxes paid by these individuals rise 30%
 </div>
 &nbsp;  
 
-"Wealth Taxation and Portfolio Allocation at the Top" (working paper coming soon)
+"[Wealth Taxation and Portfolio Allocation at the Top](https://segal-leguernherry.github.io/Research/)" (working paper coming soon)
+
+
 &nbsp;  
 
  
