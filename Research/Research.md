@@ -6,29 +6,35 @@ urlcolor: blue
 ---
 
 <div align="center">
+ <b>[Job market paper]</b>
+</div>
+&nbsp;  
+
+"[Wealth Taxation and Portfolio Allocation](https://segal-leguernherry.github.io/Research/)"
+
+<sub> How does taxation affect portfolio choices at the top?  Leveraging a 2017 reform which transformed the French wealth tax into a real estate tax, I estimate the substitution between real estate and financial wealth once tax rates start to differ for both asset classes. To identify causal effects, I use comprehensive tax returns for France and a difference-in-differences design comparing French taxpayers to non-residents subject to the wealth tax but not affected by the policy change. Five years after the reform, the stock of real estate held by French taxpayers decreased by an average of 5%, with responses driven by investment rather than owner-occupied housing. Less than 10% of taxpayers can account for 100% of the observed decrease in real estate, revealing a strong heterogeneity between a minority of tax planners and a majority of households not responding at all. The decrease in real estate held by tax planners is mirrored by a surge in financial capital income received after the reform, consistent with asset shifting responses to the differential tax change. Interpreted through the lens of a stylized model, my estimates imply a cross-elasticity of 5 between real estate and financial wealth, meaning that a 1 percentage point increase in the wealth tax differential between both asset classes imply a 5% shift from real estate to financial wealth. </sub>
+
+&nbsp; 
+
+
+<div align="center">
  <b>[Publications]</b>
 </div>
 &nbsp;  
-  
+
+ 
 "[Tax Evasion and Tax Avoidance](https://www.dropbox.com/s/4n7bnmqfckj1onj/AJLZ_JPubE.pdf?dl=0)" (with Annette Alstadsaeter, Niels Johannesen and Gabriel Zucman), *Journal of Public Economics* (2022)
   
 <sub> Exploiting rich administrative data and salient policy variation, we study the substitution between illegal tax evasion and legal tax avoidance. By increasing its enforcement effort, the Norwegian government pushed many wealthy individuals to disclose assets pre-
 viously hidden abroad. We find that the taxes paid by these individuals rise 30% at the time of disclosure and that the rise is sustained over time. After stopping to evade, taxpayers do not start avoiding more. Our results suggest that cracking down on evasion by the wealthy can be an effective way to raise tax revenue, increase tax progressivity, and ultimately reduce inequality. </sub>
 
-&nbsp;  
-  
-<div align="center">
+&nbsp;   
+
+ <div align="center">
  <b>[Working papers]</b>
 </div>
 &nbsp;  
 
-"[Wealth Taxation and Portfolio Allocation](https://segal-leguernherry.github.io/Research/)" (Job Market Paper)
-
-<sub> How does taxation affect portfolio choices at the top?  Leveraging a 2017 reform which transformed the French wealth tax into a real estate tax, I estimate the substitution between real estate and financial wealth once tax rates start to differ for both asset classes. To identify causal effects, I use comprehensive tax returns for France and a difference-in-differences design comparing French taxpayers to non-residents subject to the wealth tax but not affected by the policy change. Five years after the reform, the stock of real estate held by French taxpayers decreased by an average of 5%, with responses driven by investment rather than owner-occupied housing. Less than 10% of taxpayers can account for 100% of the observed decrease in real estate, revealing a strong heterogeneity between a minority of tax planners and a majority of households not responding at all. The decrease in real estate held by tax planners is mirrored by a surge in financial capital income received after the reform, consistent with asset shifting responses to the differential tax change. Interpreted through the lens of a stylized model, my estimates imply a cross-elasticity of 5 between real estate and financial wealth, meaning that a 1 percentage point increase in the wealth tax differential between both asset classes imply a 5% shift from real estate to financial wealth. </sub>
-
-&nbsp;  
-
- 
 "[Avoiding Transparency through Offshore Real Estate: Evidence from the UK"](https://www.dropbox.com/s/axvw1fgudoeyvwg/BLGH_June2022_SciencesPoWP.pdf?dl=0) (with [Jeanne Bomare](https://sites.google.com/view/jeanne-bomare/about?authuser=0)) 
 
 [*Young Researcher Award*](https://www.youtube.com/watch?v=-rSRteTuUw0), *European Union Tax Observatory*
