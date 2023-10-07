@@ -5,7 +5,7 @@
 layout: home
 ---
 
-I am a PhD candidate in Economics at Sciences Po and work under the supervision of [Jean Marc Robin](https://sites.google.com/site/jmarcrobin/home?authuser=0) and [Gabriel Zucman](https://gabriel-zucman.eu/). I was a Fulbright visiting Scholar at UC Berkeley from August 2022 to March 2023.
+I am a PhD candidate in Economics at Sciences Po and work under the supervision of [Gabriel Zucman](https://gabriel-zucman.eu/) and [Jean Marc Robin](https://sites.google.com/site/jmarcrobin/home?authuser=0). I was a Fulbright visiting Scholar at UC Berkeley from August 2022 to March 2023.
 &nbsp;  
 
 I am on the 2023/2024 Job Market 
