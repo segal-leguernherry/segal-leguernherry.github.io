@@ -10,7 +10,8 @@ I am a PhD candidate in Economics at Sciences Po and work under the supervision 
 
 I am on the 2023/2024 Job Market 
 
-My research investigates issues related to public economics, economics of taxation and applied microeconomics. I study in particular how households respond to taxes and the implications of these responses for tax progressivity and inequality. My Job Market Paper investigates the effect of wealth taxation on households portfolio structure, focusing particularly on the degree of substitution between real estate and financial assets. 
+My research investigates issues related to public economics, economics of taxation and applied microeconomics. I study in particular how households respond to taxes and the implications of these responses for tax progressivity and inequality. 
+My Job Market Paper investigates the effect of wealth taxation on households portfolio structure, focusing particularly on the degree of substitution between real estate and financial assets. 
 
 &nbsp;  
 
