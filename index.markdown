@@ -14,4 +14,4 @@ In my research, I study how households respond to taxes and the implications of 
 
 &nbsp;  
 
-You can download my CV [here](/assets/CV2023.pdf).
+You can download my CV [here](/assets/CV_LeGuernHerry.pdf).
