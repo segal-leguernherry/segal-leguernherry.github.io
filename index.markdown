@@ -10,7 +10,7 @@ I am a PhD candidate in Economics at Sciences Po and work under the supervision 
 
 I am on the 2023/2024 Job Market 
 
-In my research, I study how households respond to taxes and the implications of these responses for tax progressivity and inequality. My [Job Market Paper](https://www.dropbox.com/scl/fi/okxszehwtq2g1c9nhb8n2/JMP_LeGuernHerry.pdf?rlkey=5spuz7vbgv7g3s72kf3bwazfu&dl=0) investigates the effect of wealth taxation on households portfolio structure, focusing particularly on the degree of substitution between real estate and financial assets. 
+In my research, I study how households respond to taxes and the implications of these responses for tax progressivity and inequality. My [Job Market Paper](https://www.dropbox.com/scl/fi/okxszehwtq2g1c9nhb8n2/JMP_LeGuernHerry.pdf?rlkey=5spuz7vbgv7g3s72kf3bwazfu&dl=0) investigates the effect of wealth taxation on households' portfolio structure, focusing particularly on the degree of substitution between real estate and financial assets. 
 
 &nbsp;  
 
