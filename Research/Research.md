@@ -36,7 +36,8 @@ viously hidden abroad. We find that the taxes paid by these individuals rise 30%
 </div>
 &nbsp;  
 
-"Avoiding Transparency through Offshore Real Estate: Evidence from the UK" (with [Jeanne Bomare](https://sites.google.com/view/jeanne-bomare/about?authuser=0)) 
+"Avoiding Transparency through Offshore Real Estate: Evidence from the UK" (with Jeanne Bomare) 
+
 [Latest version](https://drive.google.com/file/d/12mqEENe7IOgF9o2toIZjCCXepHYPv596/view?usp=sharing), [Sciences Po Economics Discussion Paper](https://www.dropbox.com/s/axvw1fgudoeyvwg/BLGH_June2022_SciencesPoWP.pdf?dl=0), [EU Tax Observatory Working Paper](https://www.taxobservatory.eu//www-site/uploads/2022/06/BLGH_June2022.pdf) 
 
 [*Young Researcher Award*](https://www.youtube.com/watch?v=-rSRteTuUw0), *European Union Tax Observatory*
