@@ -59,6 +59,7 @@ viously hidden abroad. We find that the taxes paid by these individuals rise 30%
 <sub> This paper combines Norwegian administrative tax returns with international bank transfer data in order to study the push and pull factors of capital flight to tax haven jurisdictions. Focusing on taxpayers transferring large funds to tax havens, we document that these big transfers lead to a subsequent drop in tax payments and effectively predict later participation in a tax amnesty program.Then, we study the impact of both the level of taxes and the degree of tax transparency on evasion decisions – as proxied by transfers to and from haven countries and find that both elements correlate with variations in tax non-compliance behaviors. <sub>
 </p>
 
+&nbsp;  
 
 "Avoiding Evasion: Effects of the Automatic Exchange of Information" (with Eva Davoine and Wouter Leenders) 
 
