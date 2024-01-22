@@ -58,7 +58,6 @@ viously hidden abroad. We find that the taxes paid by these individuals rise 30%
 <p align="justify">
 <sub> This paper combines Norwegian administrative tax returns with international bank transfer data in order to study the push and pull factors of capital flight to tax haven jurisdictions. Focusing on taxpayers transferring large funds to tax havens, we document that these big transfers lead to a subsequent drop in tax payments and effectively predict later participation in a tax amnesty program.Then, we study the impact of both the level of taxes and the degree of tax transparency on evasion decisions – as proxied by transfers to and from haven countries and find that both elements correlate with variations in tax non-compliance behaviors. <sub>
 </p>
-
 &nbsp;  
 
 "Avoiding Evasion: Effects of the Automatic Exchange of Information" (with Eva Davoine and Wouter Leenders) 
@@ -67,12 +66,5 @@ viously hidden abroad. We find that the taxes paid by these individuals rise 30%
 <sub> We study the effect of newly implemented international tax transparency measures on households compliance behavior. To do so, we match French administrative tax records to account-level information reported to the French tax authority by foreign banks through the Automatic Exchange of Information (AEoI). We find that in 2021 French taxpayers hold around 340€ billion in foreign accounts, 61% of which is concentrated in a few financial centers, mainly Luxembourg and Switzerland. We also document a steep income gradient in the propensity to hold assets in foreign financial institutions. Turning to the impact of the AEoI on tax compliance and government revenue, we present suggestive evidence that increased reporting behavior depends on taxpayer sophistication. This suggests that despite a minority of sophisticated evaders who continue to under-report, the recent improvement in global tax transparency is likely to have reduced overall tax evasion and increased government revenue. <sub>
 </p>
 
-<div align="center">
- <b>[Other]</b>
-</div>
-&nbsp;  
-
-- Video [*L'impôt fait-il fuir les riches ?*](https://www.youtube.com/watch?v=moTzW9ztEGE) (with [Basile Deshardiller](https://www.instagram.com/balise_d/)). 
-Winner of [*Citéco Vidéo Challenge 2022*](https://www.citeco.fr/laureats-cvc-2022)
 
 
