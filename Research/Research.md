@@ -64,7 +64,7 @@ viously hidden abroad. We find that the taxes paid by these individuals rise 30%
 "Avoiding Evasion: Effects of the Automatic Exchange of Information" (with Eva Davoine and Wouter Leenders) 
 
 <p align="justify">
-<sub> We study the effect of newly implemented international tax transparency measures on households compliance behavior. To do so, we match French administrative tax records to account-level information reported to the French tax authority by foreign banks through the Automatic Exchange of Information (AEoI). We find that in 2021 French taxpayers hold a substantial share of their financial wealth in foreign accounts, almost two thirds of which is concentrated in a few financial centers, mainly Luxembourg and Switzerland. We also document a steep income gradient in the propensity to hold assets in foreign financial institutions. Turning to the impact of the AEoI on tax compliance and government revenue, we present suggestive evidence that increased reporting behavior depends on taxpayer sophistication. This suggests that despite a minority of sophisticated evaders who continue to under-report, the recent improvement in global tax transparency is likely to have reduced overall tax evasion and increased government revenue. </sub>
+<sub>  </sub>
 </p>
 
 
