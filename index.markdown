@@ -8,8 +8,6 @@ layout: home
 I am a PhD candidate in Economics at Sciences Po and work under the supervision of [Gabriel Zucman](https://gabriel-zucman.eu/) and [Jean Marc Robin](https://sites.google.com/site/jmarcrobin/home?authuser=0). I was a Fulbright visiting Scholar at UC Berkeley from August 2022 to March 2023.
 &nbsp;  
 
-I will be joining the Aix-Marseille School of Economics as Assistant Professor in September 2024.
-
 In my research, I study how households respond to taxes and the implications of these responses for tax progressivity and inequality.
 
 &nbsp;  
