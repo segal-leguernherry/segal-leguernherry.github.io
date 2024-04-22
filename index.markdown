@@ -9,7 +9,6 @@ I am a PhD candidate in Economics at Sciences Po and work under the supervision 
 &nbsp;  
 
 In my research, I study how households respond to taxes and the implications of these responses for tax progressivity and inequality.
-
 &nbsp;  
 
 You can download my CV [here](/assets/CV_LeGuernHerry.pdf).
