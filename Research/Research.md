@@ -33,12 +33,16 @@ viously hidden abroad. We find that the taxes paid by these individuals rise 30%
 
 "Avoiding Transparency through Offshore Real Estate: Evidence from the UK" (with Jeanne Bomare) 
 
-[Latest version](https://drive.google.com/file/d/12mqEENe7IOgF9o2toIZjCCXepHYPv596/view?usp=sharing), [Sciences Po WP](https://www.dropbox.com/s/axvw1fgudoeyvwg/BLGH_June2022_SciencesPoWP.pdf?dl=0), [EU Tax Observatory WP](https://www.taxobservatory.eu//www-site/uploads/2022/06/BLGH_June2022.pdf) 
+[Latest version](/assets/Bomare_LeGuernHerry.pdf), [Sciences Po WP](https://www.dropbox.com/s/axvw1fgudoeyvwg/BLGH_June2022_SciencesPoWP.pdf?dl=0), [EU Tax Observatory WP](https://www.taxobservatory.eu//www-site/uploads/2022/06/BLGH_June2022.pdf) 
 
 *Young Researcher Award, European Union Tax Observatory*
 
 <p align="justify">
-<sub> This paper provides evidence of the growing importance of real estate assets in offshore portfolios. We study offshore real estate investments in the UK using administrative data on real estate purchases made by foreign companies. First, we show that this market is large and highly secretive: around 5% of total UK real estate wealth was held from abroad in 2018, mostly through tax havens. We match administrative records to corporate registers and leaks to shed light on the ultimate ownership of properties, and find that most offshore investments to the UK can be traced back to individuals from the UK and from the Middle East. Second, we study the implementation of the first multilateral automatic exchange of information norm, the Common Reporting Standard (CRS), which introduces cross-border reporting requirements for financial assets but not for real estate assets. We show that tax havens that are more exposed to the CRS significantly increased their real estate investments to the UK after the introduction of the policy. We estimate that around $45 billion has been invested in the UK real estate market between 2013 and 2016 in reaction to the CRS. This indicates that at a global scale, a substantial portion of wealth that flowed out of tax havens following the policy change was ultimately invested in properties.   </sub>
+<sub> In the middle of the 2010s, countries implemented the most comprehensive policy ever enacted to tackle financial tax evasion: the Common Reporting Standard (CRS). We study the effect of this policy on the investment patterns of
+offshore account holders. The CRS is a multilateral automatic exchange of information standard that introduces cross-border reporting on financial assets but not on real estate. Using administrative data on real estate purchases made
+by foreign companies in the UK, our paper provides evidence that offshore users shifted financial assets to real estate assets to avoid the new reporting requirements. We show that real estate investments from tax havens that are more
+exposed to the CRS significantly increase after the introduction of the policy. We estimate that around $45 billion has been invested in the UK real estate market between 2013 and 2016 in response to the CRS. Our results suggest that
+real estate assets account for a growing share of offshore portfolios, partly because of the increased transparency in ownership of cross-border financial assets.   </sub>
 </p>
 
 &nbsp;  
