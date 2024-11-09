@@ -4,12 +4,12 @@
 
 layout: home
 ---
-I am Assistant Professor at the Aix-Marseille School of Economics. 
+I am Assistant Professor at the Aix-Marseille School of Economics and senior economist at the EU Tax Observatory.
 
-I did my PhD at Sciences Po under the supervision of [Gabriel Zucman](https://gabriel-zucman.eu/) and [Jean Marc Robin](https://sites.google.com/site/jmarcrobin/home?authuser=0). I was a Fulbright visiting Scholar at UC Berkeley from August 2022 to March 2023. 
+In my research, I study how households respond to taxes and the implications of these responses for tax progressivity and inequality. I am particularly interested in wealth taxation and tax evasion. 
 &nbsp;  
 
-In my research, I study how households respond to taxes and the implications of these responses for tax progressivity and inequality.
+I received my PhD at Sciences Po in June 2024 under the supervision of [Gabriel Zucman](https://gabriel-zucman.eu/) and [Jean Marc Robin](https://sites.google.com/site/jmarcrobin/home?authuser=0). I was a Fulbright visiting Scholar at UC Berkeley from August 2022 to March 2023. 
 &nbsp;  
 
 You can download my CV [here](/assets/CV_LeGuernHerry.pdf).
