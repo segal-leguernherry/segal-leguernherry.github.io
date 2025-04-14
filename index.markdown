@@ -13,3 +13,12 @@ I received my PhD at Sciences Po in June 2024 under the supervision of [Gabriel 
 &nbsp;  
 
 You can download my CV [here](/assets/CV_LeGuernHerry.pdf).
+
+---
+
+### Contact Information
+
+**Email:** segal.le-guern-herry(at)univ-amu.fr  
+**Address:** Aix-Marseille School of Economics  
+5-9 Boulevard Maurice Bourdet  
+13001 Marseille, France
