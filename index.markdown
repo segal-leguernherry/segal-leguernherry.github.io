@@ -16,7 +16,7 @@ You can download my CV [here](/assets/CV_LeGuernHerry.pdf).
 
 <div style="margin-top: 8em; font-size: 0.85em; color: #666;">
 <hr style="margin-bottom: 1em;">
-<b>Contact:</b> segal.le-guern-herry@univ-amu.fr<br>
+<b>Contact:</b> segal.le-guern-herry(at)univ-amu.fr<br>
 Aix-Marseille School of Economics<br>
 5-9 Boulevard Maurice Bourdet<br>
 13001 Marseille, France
