@@ -31,18 +31,12 @@ viously hidden abroad. We find that the taxes paid by these individuals rise 30%
 &nbsp; 
 
 
-"Avoiding Transparency through Offshore Real Estate: Evidence from the UK" (with Jeanne Bomare) 
-
-[Latest version](/assets/Bomare_LeGuernHerry.pdf), [Sciences Po WP](https://www.dropbox.com/s/axvw1fgudoeyvwg/BLGH_June2022_SciencesPoWP.pdf?dl=0), [EU Tax Observatory WP](https://www.taxobservatory.eu//www-site/uploads/2022/06/BLGH_June2022.pdf) 
+"[Avoiding Transparency through Offshore Real Estate: Evidence from the UK](/assets/Bomare_LeGuernHerry.pdf)" (with Jeanne Bomare) [Updated May 2025]
 
 *Young Researcher Award, European Union Tax Observatory*
 
 <p align="justify">
-<sub> In the middle of the 2010s, countries implemented the most comprehensive policy ever enacted to tackle financial tax evasion: the Common Reporting Standard (CRS). We study the effect of this policy on the investment patterns of
-offshore account holders. The CRS is a multilateral automatic exchange of information standard that introduces cross-border reporting on financial assets but not on real estate. Using administrative data on real estate purchases made
-by foreign companies in the UK, our paper provides evidence that offshore users shifted financial assets to real estate assets to avoid the new reporting requirements. We show that real estate investments from tax havens that are more
-exposed to the CRS significantly increase after the introduction of the policy. We estimate that around $45 billion has been invested in the UK real estate market between 2013 and 2016 in response to the CRS. Our results suggest that
-real estate assets account for a growing share of offshore portfolios, partly because of the increased transparency in ownership of cross-border financial assets.   </sub>
+<sub> The 2014 Automatic Exchange of Information (AEoI) represents the most comprehensive global effort to combat tax evasion by enabling cross-border information exchange on financial assets. We examine how this policy shifted offshore investment behavior. While the AEoI mandates reporting of financial assets, it excludes real estate holdings. Using administrative data on UK real estate purchases by foreign companies, we show that offshore users substituted financial assets for real estate in response to the new transparency regime: real estate investment from tax havens more exposed to AEoI significantly increased after the policy’s introduction. We estimate that around 9% of the offshore financial wealth that flowed out of tax havens due to AEoI was ultimately reinvested in UK real estate. Our findings suggest that real estate assets now account for a growing share of offshore portfolios, partly due to their exclusion from AEoI reporting requirements.   </sub>
 </p>
 
 &nbsp;  
