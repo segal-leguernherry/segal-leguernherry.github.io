@@ -11,7 +11,7 @@ urlcolor: blue
 &nbsp;  
 
  
-"[Tax Evasion and Tax Avoidance](https://www.dropbox.com/s/4n7bnmqfckj1onj/AJLZ_JPubE.pdf?dl=0)" (with Annette Alstadsaeter, Niels Johannesen and Gabriel Zucman), *Journal of Public Economics* (2022)
+"[Tax Evasion and Tax Avoidance](https://www.dropbox.com/s/4n7bnmqfckj1onj/AJLZ_JPubE.pdf?dl=0)" (with Annette Alstadsaeter, Niels Johannesen and Gabriel Zucman), **Journal of Public Economics** (2022)
  <p align="justify">
 <sub> Exploiting rich administrative data and salient policy variation, we study the substitution between illegal tax evasion and legal tax avoidance. By increasing its enforcement effort, the Norwegian government pushed many wealthy individuals to disclose assets pre-
 viously hidden abroad. We find that the taxes paid by these individuals rise 30% at the time of disclosure and that the rise is sustained over time. After stopping to evade, taxpayers do not start avoiding more. Our results suggest that cracking down on evasion by the wealthy can be an effective way to raise tax revenue, increase tax progressivity, and ultimately reduce inequality. </sub>
@@ -31,7 +31,7 @@ viously hidden abroad. We find that the taxes paid by these individuals rise 30%
 &nbsp; 
 
 
-"[Avoiding Transparency through Offshore Real Estate: Evidence from the UK](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5260099)" (with Jeanne Bomare) [Updated May 2025]
+"[Avoiding Transparency through Offshore Real Estate: Evidence from the UK](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5260099)" (with Jeanne Bomare) **revise and resubmit at AEJ: Applied Economics**
 
 *Young Researcher Award, EU Tax Observatory*
 
