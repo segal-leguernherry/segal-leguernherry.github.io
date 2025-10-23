@@ -11,7 +11,9 @@ urlcolor: blue
 &nbsp;  
 
  
-"[Tax Evasion and Tax Avoidance](https://www.dropbox.com/s/4n7bnmqfckj1onj/AJLZ_JPubE.pdf?dl=0)" (with Annette Alstadsaeter, Niels Johannesen and Gabriel Zucman), *Journal of Public Economics* (2022)
+"[Tax Evasion and Tax Avoidance](https://www.dropbox.com/s/4n7bnmqfckj1onj/AJLZ_JPubE.pdf?dl=0)" (with Annette Alstadsaeter, Niels Johannesen and Gabriel Zucman)
+*Journal of Public Economics* (2022)
+
  <p align="justify">
 <sub> Exploiting rich administrative data and salient policy variation, we study the substitution between illegal tax evasion and legal tax avoidance. By increasing its enforcement effort, the Norwegian government pushed many wealthy individuals to disclose assets pre-
 viously hidden abroad. We find that the taxes paid by these individuals rise 30% at the time of disclosure and that the rise is sustained over time. After stopping to evade, taxpayers do not start avoiding more. Our results suggest that cracking down on evasion by the wealthy can be an effective way to raise tax revenue, increase tax progressivity, and ultimately reduce inequality. </sub>
@@ -32,8 +34,8 @@ viously hidden abroad. We find that the taxes paid by these individuals rise 30%
 
 
 "[Avoiding Transparency through Offshore Real Estate: Evidence from the UK](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5260099)" (with Jeanne Bomare)  
-Revise and resubmit, *American Economic Journal: Applied Economics* <sub><i>— Young Researcher Award, EU Tax Observatory</i></sub>
-
+Revise and resubmit, *American Economic Journal: Applied Economics* 
+<sub><i> Young Researcher Award, EU Tax Observatory</i></sub>
 
 <p align="justify">
 <sub> The 2014 Automatic Exchange of Information (AEoI) represents the most comprehensive global effort to combat tax evasion by enabling cross-border information exchange on financial assets. We examine how this policy shifted offshore investment behavior. While the AEoI mandates reporting of financial assets, it excludes real estate holdings. Using administrative data on UK real estate purchases by foreign companies, we show that offshore users substituted financial assets for real estate in response to the new transparency regime: real estate investment from tax havens more exposed to AEoI significantly increased after the policy’s introduction. We estimate that around 9% of the offshore financial wealth that flowed out of tax havens due to AEoI was ultimately reinvested in UK real estate. Our findings suggest that real estate assets now account for a growing share of offshore portfolios, partly due to their exclusion from AEoI reporting requirements.   </sub>
