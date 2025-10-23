@@ -31,11 +31,9 @@ viously hidden abroad. We find that the taxes paid by these individuals rise 30%
 &nbsp; 
 
 
-"[Avoiding Transparency through Offshore Real Estate: Evidence from the UK](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5260099)" (with Jeanne Bomare)
+"[Avoiding Transparency through Offshore Real Estate: Evidence from the UK](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5260099)" (with Jeanne Bomare)  
+Revise and resubmit, *American Economic Journal: Applied Economics* <small><i>— Young Researcher Award, EU Tax Observatory</i></small>
 
-<sub><i>Young Researcher Award, EU Tax Observatory</i></sub>
-
-Revise and resubmit, *American Economic Journal: Applied Economics*
 
 <p align="justify">
 <sub> The 2014 Automatic Exchange of Information (AEoI) represents the most comprehensive global effort to combat tax evasion by enabling cross-border information exchange on financial assets. We examine how this policy shifted offshore investment behavior. While the AEoI mandates reporting of financial assets, it excludes real estate holdings. Using administrative data on UK real estate purchases by foreign companies, we show that offshore users substituted financial assets for real estate in response to the new transparency regime: real estate investment from tax havens more exposed to AEoI significantly increased after the policy’s introduction. We estimate that around 9% of the offshore financial wealth that flowed out of tax havens due to AEoI was ultimately reinvested in UK real estate. Our findings suggest that real estate assets now account for a growing share of offshore portfolios, partly due to their exclusion from AEoI reporting requirements.   </sub>
