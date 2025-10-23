@@ -11,7 +11,7 @@ urlcolor: blue
 &nbsp;  
 
  
-"[Tax Evasion and Tax Avoidance](https://www.dropbox.com/s/4n7bnmqfckj1onj/AJLZ_JPubE.pdf?dl=0)" (with Annette Alstadsaeter, Niels Johannesen and Gabriel Zucman)
+"[Tax Evasion and Tax Avoidance](https://www.dropbox.com/s/4n7bnmqfckj1onj/AJLZ_JPubE.pdf?dl=0)" (with Annette Alstadsaeter, Niels Johannesen and Gabriel Zucman)  
 *Journal of Public Economics* (2022)
 
  <p align="justify">
@@ -34,7 +34,7 @@ viously hidden abroad. We find that the taxes paid by these individuals rise 30%
 
 
 "[Avoiding Transparency through Offshore Real Estate: Evidence from the UK](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5260099)" (with Jeanne Bomare)  
-Revise and resubmit, *American Economic Journal: Applied Economics*
+Revise and resubmit, *American Economic Journal: Applied Economics*  
 <sub><i> Young Researcher Award, EU Tax Observatory</i></sub>
 
 <p align="justify">
