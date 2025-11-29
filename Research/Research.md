@@ -25,7 +25,7 @@ viously hidden abroad. We find that the taxes paid by these individuals rise 30%
 </div>
 &nbsp;  
 
-"[Wealth Taxation and Portfolio Allocation](/assets/WealthTax_Portfolio.pdf)" [Updated May 2025]
+"[Wealth Taxation and Portfolio Allocation](/assets/WealthTax_Portfolio.pdf)" [Updated May 2025]  
 [AFSE blog](https://www.blog-afse.fr/billet/lifi-comme-laboratoire-mesurer-limpact-dune-fiscalite-differenciee-sur-lallocation-du), [Sciences humaines](https://www.scienceshumaines.com/impots-la-pierre-plus-forte-que-le-papier)
 
 <p align="justify">
