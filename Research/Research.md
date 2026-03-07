@@ -28,7 +28,6 @@ urlcolor: blue
 
 "[Avoiding Transparency through Offshore Real Estate: Evidence from the UK](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5260099)" (with Jeanne Bomare)  
 Revise and resubmit, *American Economic Journal: Applied Economics*  
-<sub><i> Young Researcher Award, EU Tax Observatory</i></sub>
 
 <br>
 
