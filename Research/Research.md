@@ -22,11 +22,13 @@ urlcolor: blue
 "[Wealth Taxation and Portfolio Allocation](/assets/WealthTax_Portfolio.pdf)" [Updated May 2025]  
 <sub> [AFSE blog](https://www.blog-afse.fr/billet/lifi-comme-laboratoire-mesurer-limpact-dune-fiscalite-differenciee-sur-lallocation-du), [Sciences humaines](https://www.scienceshumaines.com/impots-la-pierre-plus-forte-que-le-papier) </sub>
 
+<br>
 
 "[Avoiding Transparency through Offshore Real Estate: Evidence from the UK](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5260099)" (with Jeanne Bomare)  
 Revise and resubmit, *American Economic Journal: Applied Economics*  
 <sub><i> Young Researcher Award, EU Tax Observatory</i></sub>
 
+<br>
 
 "[Global Transparency and Tax Enforcement on Foreign Capital](/assets/DLLL.pdf)" (with Eva Davoine, Elvin Le Pouhaër and Wouter Leenders)  
 
