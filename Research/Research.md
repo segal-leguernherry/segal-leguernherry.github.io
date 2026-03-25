@@ -21,7 +21,7 @@ urlcolor: blue
 </div>
 &nbsp;  
 
-"[Wealth Taxation and Portfolio Allocation](/assets/WealthTax_Portfolio.pdf)" [Updated May 2025]  
+"[Wealth Taxation and Portfolio Allocation](/assets/WealthTax_Portfolio.pdf)" 
 <sub> [AFSE blog](https://www.blog-afse.fr/billet/lifi-comme-laboratoire-mesurer-limpact-dune-fiscalite-differenciee-sur-lallocation-du), [Sciences humaines](https://www.scienceshumaines.com/impots-la-pierre-plus-forte-que-le-papier) </sub>
 
 <br>
