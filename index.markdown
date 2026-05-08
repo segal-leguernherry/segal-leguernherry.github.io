@@ -4,7 +4,7 @@
 
 layout: home
 ---
-I am Assistant Professor at the Aix-Marseille School of Economics and senior economist at the EU Tax Observatory. I will be visiting UC Berkeley in the Spring 2026. 
+I am Assistant Professor at the Aix-Marseille School of Economics and senior economist at the EU Tax Observatory. I am currently in UC Berkeley as a visiting Assistant Professor for the Spring 2026.
 
 In my research, I study how households respond to taxes and the implications of these responses for tax progressivity and inequality. I am particularly interested in wealth taxation and tax evasion. 
 &nbsp;
