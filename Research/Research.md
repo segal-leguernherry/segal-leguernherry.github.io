@@ -31,7 +31,7 @@ Revise and resubmit, *American Economic Journal: Applied Economics*
 
 <br>
 
-"[Global Transparency and Tax Enforcement on Foreign Capital](https://www.dropbox.com/scl/fi/phylco65vla2upffdcgs6/DLLL.pdf?rlkey=o7ctktvcxaghnifb4j6cq2kbt&e=1&dl=0)" (with Eva Davoine, Elvin Le Pouhaër and Wouter Leenders)  
+"[Global Transparency and Tax Enforcement on Foreign Capital](/assets/DLLL.pdf)" (with Eva Davoine, Elvin Le Pouhaër and Wouter Leenders)  
 
 &nbsp;  
 <br>
