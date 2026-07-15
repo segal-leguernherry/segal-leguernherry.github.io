@@ -33,19 +33,9 @@ Revise and resubmit, *American Economic Journal: Applied Economics*
 
 "[Global Transparency and Tax Enforcement on Foreign Capital](/assets/DLLL.pdf)" (with Eva Davoine, Elvin Le Pouhaër and Wouter Leenders)  
 
-&nbsp;  
 <br>
 
- <div align="center">
- <b>[Selected work in progres]</b>
-</div>
-&nbsp; 
-
-"Push and Pull Factors of Offshore Tax Evasion: Evidence from Bank Transfer Data" (with Annette Alstadsaeter, Niels Johannesen and Gabriel Zucman) 
-
-<p align="justify">
-<sub> This paper combines Norwegian administrative tax returns with international bank transfer data in order to study the push and pull factors of capital flight to tax haven jurisdictions. Focusing on taxpayers transferring large funds to tax havens, we document that these big transfers lead to a subsequent drop in tax payments and effectively predict later participation in a tax amnesty program.Then, we study the impact of both the level of taxes and the degree of tax transparency on evasion decisions – as proxied by transfers to and from haven countries and find that both elements correlate with variations in tax non-compliance behaviors.  </sub>
-</p>
+"[Global Financial Transparency and Offshore Wealth Accumulation](/assets/AJLZ2026.pdf)" (with Annette Alstadsaeter, Niels Johannesen and Gabriel Zucman)  
 
 &nbsp; 
 
