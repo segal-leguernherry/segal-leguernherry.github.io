@@ -4,7 +4,7 @@
 
 layout: home
 ---
-I am an Assistant Professor at the Aix-Marseille School of Economics and a Senior Economist at the EU Tax Observatory. In Spring 2026, I was a Visiting Assistant Professor at UC Berkeley.
+I am an Assistant Professor (on leave) at the Aix-Marseille School of Economics and a Senior Economist at the EU Tax Observatory. I am currently a Marie Skłodowska-Curie Fellow at the Oxford University Centre for Business Taxation (2026–27).
 
 In my research, I study how households respond to taxes and the implications of these responses for tax progressivity and inequality. I am particularly interested in wealth taxation and tax evasion. 
 &nbsp;
